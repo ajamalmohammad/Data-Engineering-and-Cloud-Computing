@@ -13,7 +13,43 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cypher query.md",
+                "file": "Curriculum.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2a6ef45bb230a487",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SPA Pyscript.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9b0dd523975be7ad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Python Streamlit.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ae09f5386287cc29",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Personal knowledge management.md",
                 "mode": "source",
                 "source": false
               }
@@ -112,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cypher query.md",
+                "file": "Curriculum.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cypher query.md",
+                "file": "Curriculum.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cypher query.md"
+                "file": "Curriculum.md"
               }
             }
           }
@@ -175,7 +211,11 @@
   },
   "active": "dba64ac3edd64ceb",
   "lastOpenFiles": [
+    "SPA Pyscript.md",
     "Curriculum.md",
+    "Python Streamlit.md",
+    "Personal knowledge management.md",
+    "DBeaver Community edition.md",
     "Cypher query.md",
     "Bigdata.md",
     "Visual Studio Code IDE setup.md",
@@ -196,10 +236,6 @@
     "Data Cleaning.md",
     "Airflow.md",
     "Snowflake.md",
-    "AWS Cloud Services.md",
-    "Git.md",
-    "Mongo DB.md",
-    "System Design.md",
-    "databases.md"
+    "AWS Cloud Services.md"
   ]
 }

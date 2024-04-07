@@ -3,3 +3,6 @@
 - Creating Frameworks  
 - Cron jobs, Email alerts  
 - Running Batch jobs
+
+# Practice
+- https://www.hackerrank.com/domains/sql

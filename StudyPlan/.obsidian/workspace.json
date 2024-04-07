@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kubernetes.md",
+                "file": "Cypher query.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3a2dbe9cd8a0256c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Shell script.md",
                 "mode": "source",
                 "source": false
               }
@@ -67,6 +79,20 @@
           }
         ],
         "currentTab": 2
+      },
+      {
+        "id": "2b465fabfba1ec50",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "000faacc7392d9b0",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kubernetes.md",
+                "file": "Cypher query.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kubernetes.md",
+                "file": "Cypher query.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kubernetes.md"
+                "file": "Cypher query.md"
               }
             }
           }
@@ -150,27 +176,30 @@
   "active": "dba64ac3edd64ceb",
   "lastOpenFiles": [
     "Curriculum.md",
+    "Cypher query.md",
+    "Bigdata.md",
+    "Visual Studio Code IDE setup.md",
+    "Apache Kafka.md",
+    "Python Pandas.md",
+    "Python Advanced.md",
+    "Python.md",
+    "Terraform.md",
+    "Infrastructure as a code.md",
+    "Regular expressions.md",
+    "Shell script.md",
+    "SQL.md",
+    "Prompt Engineering.md",
+    "Kubernetes.md",
     "Prometheus.md",
     "Docker.md",
     "Datadog.md",
     "Data Cleaning.md",
-    "Kafka.md",
-    "Bigdata.md",
     "Airflow.md",
     "Snowflake.md",
     "AWS Cloud Services.md",
     "Git.md",
-    "Shell script.md",
     "Mongo DB.md",
     "System Design.md",
-    "databases.md",
-    "RDBMS.md",
-    "SQL.md",
-    "Python Pandas.md",
-    "Python Advanced.md",
-    "Python.md",
-    "Kubernetes.md",
-    "NoSQL DB.md",
-    "Software Licenses.md"
+    "databases.md"
   ]
 }

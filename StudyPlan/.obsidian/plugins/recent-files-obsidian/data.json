@@ -1,0 +1,39 @@
+{
+  "recentFiles": [
+    {
+      "basename": "Cypher query",
+      "path": "Cypher query.md"
+    },
+    {
+      "basename": "Curriculum",
+      "path": "Curriculum.md"
+    },
+    {
+      "basename": "Bigdata",
+      "path": "Bigdata.md"
+    },
+    {
+      "basename": "Visual Studio Code IDE setup",
+      "path": "Visual Studio Code IDE setup.md"
+    },
+    {
+      "basename": "Apache Kafka",
+      "path": "Apache Kafka.md"
+    },
+    {
+      "basename": "Python Pandas",
+      "path": "Python Pandas.md"
+    },
+    {
+      "basename": "Python Advanced",
+      "path": "Python Advanced.md"
+    },
+    {
+      "basename": "Python",
+      "path": "Python.md"
+    }
+  ],
+  "omittedPaths": [],
+  "maxLength": null,
+  "openType": "tab"
+}

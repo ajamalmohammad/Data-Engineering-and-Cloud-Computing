@@ -1,0 +1,176 @@
+{
+  "main": {
+    "id": "7342dd0497487485",
+    "type": "split",
+    "children": [
+      {
+        "id": "00a4692cf8a245eb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dba64ac3edd64ceb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Kubernetes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f1ab97694eba17c4",
+    "type": "split",
+    "children": [
+      {
+        "id": "877915408f8c28b4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "86199ba2ad713ec8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6627f71528093c25",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "afa2fad7eb5c400a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d9085575e23cbe5a",
+    "type": "split",
+    "children": [
+      {
+        "id": "4a5afdf271731ca4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4806d330945ac421",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Kubernetes.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bd1bf09c080618cf",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Kubernetes.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6da9b9169a4ff690",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "66e82901491deaeb",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Kubernetes.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "dba64ac3edd64ceb",
+  "lastOpenFiles": [
+    "Curriculum.md",
+    "Prometheus.md",
+    "Docker.md",
+    "Datadog.md",
+    "Data Cleaning.md",
+    "Kafka.md",
+    "Bigdata.md",
+    "Airflow.md",
+    "Snowflake.md",
+    "AWS Cloud Services.md",
+    "Git.md",
+    "Shell script.md",
+    "Mongo DB.md",
+    "System Design.md",
+    "databases.md",
+    "RDBMS.md",
+    "SQL.md",
+    "Python Pandas.md",
+    "Python Advanced.md",
+    "Python.md",
+    "Kubernetes.md",
+    "NoSQL DB.md",
+    "Software Licenses.md"
+  ]
+}

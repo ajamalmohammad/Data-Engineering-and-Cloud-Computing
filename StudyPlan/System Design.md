@@ -1,0 +1,7 @@
+- Load balancer and High availbility
+- Horizontal vs Vertical Scaling
+- Monolithic vs microservice
+- Distributed messing service and Aws SQS
+- CDN (content deliver Network)
+- Caching , scalability
+- Aws API gateway

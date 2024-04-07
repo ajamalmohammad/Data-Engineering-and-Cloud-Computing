@@ -1,0 +1,10 @@
+- MYSQL  
+- SQL KEYS  
+- PRIMARY KEY  
+- FOREIGN KEY  
+- UNIQUE KEY  
+- composite key  
+- triggers  
+- indexes  
+- transaction  
+- views

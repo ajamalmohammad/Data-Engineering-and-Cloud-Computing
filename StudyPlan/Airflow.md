@@ -1,0 +1,18 @@
+- Why and what is airflow  
+- airflow UI  
+- Run first dag  
+- grid view  
+- graph view  
+- landing times view  
+- calender view  
+- gantt view  
+- Code view  
+- Core concepts of airflow  
+- DAGs  
+- Scope  
+- Operators  
+- control flow  
+- Task and task instance  
+- Database and executors  
+- ETL/ELT process implementation  
+- monitoring ETL pipeline with aitflow

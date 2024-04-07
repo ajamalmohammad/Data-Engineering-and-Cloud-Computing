@@ -1,0 +1,11 @@
+- Introduction to snowflake  
+- Diffrence between Datalake,Datawarehouse,Deltalake,Database  
+- Dimension and Fact Tables  
+- Roles and users  
+- data modeling , snowpipe  
+- MLOAP and ROLAP  
+- Partitioning and indexing  
+- Data mart and data cubes & caching  
+- data masking  
+- handling json files  
+- data loading from S3 and tranformation

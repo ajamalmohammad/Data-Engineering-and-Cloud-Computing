@@ -1,0 +1,7 @@
+- Introduction to kafka  
+- producer, consumer, Consumer Groups  
+- topics , offset , partitions, brokers  
+- Zookeper,replication  
+- Batch vs realtime streaming  
+- real streaming process  
+- Assignment and Task

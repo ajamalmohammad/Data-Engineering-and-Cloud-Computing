@@ -1,0 +1,7 @@
+- Structured vs Unstructured Data using Pandas  
+- Common Data issues and how to clean them  
+- Data cleaning with Pandas and pyspark\  
+- Handling Json Data  
+- Meaningful data transformation (Scaling and  
+- Normalization)  
+- Example: Movies Data Set Cleaning

@@ -6,6 +6,7 @@
       {
         "id": "00a4692cf8a245eb",
         "type": "tabs",
+        "dimension": 44.596199524940616,
         "children": [
           {
             "id": "dba64ac3edd64ceb",
@@ -18,56 +19,40 @@
                 "source": false
               }
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "0f8516cce9b48a5f",
+        "type": "tabs",
+        "dimension": 55.403800475059384,
+        "children": [
           {
-            "id": "2a6ef45bb230a487",
+            "id": "b787477f7dda9f3f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SPA Pyscript.md",
+                "file": "Training.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "9b0dd523975be7ad",
+            "id": "39717b63a5559b06",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python Streamlit.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ae09f5386287cc29",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Personal knowledge management.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3a2dbe9cd8a0256c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Shell script.md",
+                "file": "Intermediate Data Engineering and Cloud Analytics.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -132,7 +117,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "d9085575e23cbe5a",
@@ -148,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Curriculum.md",
+                "file": "Intermediate Data Engineering and Cloud Analytics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Curriculum.md",
+                "file": "Intermediate Data Engineering and Cloud Analytics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Curriculum.md"
+                "file": "Intermediate Data Engineering and Cloud Analytics.md"
               }
             }
           }
@@ -206,13 +192,23 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "dba64ac3edd64ceb",
+  "active": "39717b63a5559b06",
   "lastOpenFiles": [
-    "SPA Pyscript.md",
     "Curriculum.md",
+    "Intermediate Data Engineering and Cloud Analytics.md",
+    "Docker.md",
+    "Obsidian.md",
+    "Regular expressions.md",
+    "Shell script.md",
+    "Python Advanced.md",
+    "Python.md",
+    "Training.md",
+    "Software Licenses.md",
+    "SPA Pyscript.md",
     "Python Streamlit.md",
     "Personal knowledge management.md",
     "DBeaver Community edition.md",
@@ -221,21 +217,12 @@
     "Visual Studio Code IDE setup.md",
     "Apache Kafka.md",
     "Python Pandas.md",
-    "Python Advanced.md",
-    "Python.md",
     "Terraform.md",
     "Infrastructure as a code.md",
-    "Regular expressions.md",
-    "Shell script.md",
     "SQL.md",
     "Prompt Engineering.md",
     "Kubernetes.md",
     "Prometheus.md",
-    "Docker.md",
-    "Datadog.md",
-    "Data Cleaning.md",
-    "Airflow.md",
-    "Snowflake.md",
-    "AWS Cloud Services.md"
+    "Datadog.md"
   ]
 }

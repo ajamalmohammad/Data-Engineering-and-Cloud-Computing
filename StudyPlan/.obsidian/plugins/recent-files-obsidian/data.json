@@ -1,8 +1,44 @@
 {
   "recentFiles": [
     {
+      "basename": "Intermediate Data Engineering and Cloud Analytics",
+      "path": "Intermediate Data Engineering and Cloud Analytics.md"
+    },
+    {
       "basename": "Curriculum",
       "path": "Curriculum.md"
+    },
+    {
+      "basename": "Docker",
+      "path": "Docker.md"
+    },
+    {
+      "basename": "Obsidian",
+      "path": "Obsidian.md"
+    },
+    {
+      "basename": "Regular expressions",
+      "path": "Regular expressions.md"
+    },
+    {
+      "basename": "Shell script",
+      "path": "Shell script.md"
+    },
+    {
+      "basename": "Python Advanced",
+      "path": "Python Advanced.md"
+    },
+    {
+      "basename": "Python",
+      "path": "Python.md"
+    },
+    {
+      "basename": "Training",
+      "path": "Training.md"
+    },
+    {
+      "basename": "Software Licenses",
+      "path": "Software Licenses.md"
     },
     {
       "basename": "SPA Pyscript",
@@ -39,14 +75,6 @@
     {
       "basename": "Python Pandas",
       "path": "Python Pandas.md"
-    },
-    {
-      "basename": "Python Advanced",
-      "path": "Python Advanced.md"
-    },
-    {
-      "basename": "Python",
-      "path": "Python.md"
     }
   ],
   "omittedPaths": [],

@@ -8,7 +8,7 @@
 	- Solving Hacker-rank challenges
 	- Official SnowPro Core certification
 - ## Course duration
-	- 3/4/5 Months (weekend) | Live Online Classes
+	- 3|4|5 Months (weekend) | Live Online Classes
 - ## Eligibility
 	- Graduates & Working Professionals
 

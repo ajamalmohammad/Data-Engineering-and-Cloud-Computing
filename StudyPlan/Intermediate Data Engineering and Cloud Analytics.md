@@ -51,7 +51,8 @@ The tailor-made curriculum is designed to
 - Introduction to data, database RDBMS, data lake and data warehouse.
 - Training on Scripting languages (Programming)
 	- Environments setup
-	- SQL
+	- SQL query
+	- Cypher query 
 	- Python
 	- Shell scripting
 	- Regex
@@ -64,18 +65,29 @@ The tailor-made curriculum is designed to
 - DBeaver 
 - NoSQL essentials (Redis, Mongo)
 ## Month3
+- Snowflake Continuation...
 - Docker
 - Kubernetes (Killer.sh training)
 - Kafka essentials
 - Prompt Engineering
 - Graph database (Neo4j), Cypher query
 ## Month4
+- Snowflake Continuation...
 - Build most viable products using web apps
 - Personal knowledge management (PKM) using Obsidian
-- Software licenses and open-source tools
 - Prometheus & Datadog
-- Terraform
-
+- DBT Core (Data Build Tool)
 ## Month5
+- Terraform
+- De-facto industry standards
 - Recap 
-- 
+- Lab exercise
+- Mock interview
+- Resume creation and review
+- Software licenses and open-source tools
+
+| Course                               | Level        | Duration | Target audience                          |
+| ------------------------------------ | ------------ | -------- | ---------------------------------------- |
+| Data engineering and Cloud computing | Basic        | 3 months | Student, Fresher, experienced (1+ years) |
+| -                                    | Intermediate | 4 months | Fresher, experienced (2+ years)          |
+| -                                    | Advanced     | 5 months | Experienced (5+ years)                   |

@@ -18,7 +18,7 @@ The Advanced Professional course in Data Engineering and Cloud Analytics is a le
 
 ## Program Eligibility
 
-Check the only eligibility criteria that we have for our Zen class: Students & Working Professionals, seeking opportunities to upskill their Data Engineering proficiency for faster career growth.
+Check the only eligibility criteria that we have for our class: Students & Working Professionals, seeking opportunities to upskill their Data Engineering proficiency for faster career growth.
 
 ## Program Overview
 
@@ -60,10 +60,10 @@ The tailor-made curriculum is designed to
 ## Month2
 - Introduction to Cloud computing
 - AWS Service fundamentals
-- Snowflake (Cloud data warehouse)
+- Snowflake (Cloud Data Warehouse)
 - Apache Airflow
 - DBeaver 
-- NoSQL essentials (Redis, Mongo)
+- NoSQL essentials (Redis, Mongo DB)
 ## Month3
 - Snowflake Continuation...
 - Docker
@@ -88,6 +88,6 @@ The tailor-made curriculum is designed to
 
 | Course                               | Level        | Duration | Target audience                          |
 | ------------------------------------ | ------------ | -------- | ---------------------------------------- |
-| Data engineering and Cloud computing | Basic        | 3 months | Student, Fresher, experienced (1+ years) |
-| -                                    | Intermediate | 4 months | Fresher, experienced (2+ years)          |
-| -                                    | Advanced     | 5 months | Experienced (5+ years)                   |
+| Data engineering and Cloud computing | Basic        | 3 months | Student, Fresher, experienced
+| -                                    | Intermediate | 4 months | Student, Fresher, experienced
+| -                                    | Advanced     | 5 months | Student, Fresher, Experienced

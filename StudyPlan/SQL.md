@@ -15,4 +15,4 @@
 - Sub-queries
 ## Practice
 - https://www.hackerrank.com/domains/sql
-- 
+

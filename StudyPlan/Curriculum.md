@@ -3,6 +3,8 @@ tags:
   - root
 ---
 
+![[SQL#bash]]
+
 - Programming
 	- [[Python]]
 	- [[Python Advanced]]

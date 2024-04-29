@@ -43,8 +43,6 @@ The tailor-made curriculum is designed to
 
 ![[Curriculum]]
 
-
-
 # Course break-up
 
 ## Month1

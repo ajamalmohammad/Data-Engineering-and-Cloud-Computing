@@ -1,0 +1,16 @@
+- Docker install 
+	- Postgres install
+	- `choco install docker-desktop`
+		- correct website
+		- download package
+		- installation process
+		- PATH environment variables
+		- cmd
+			- docker run 
+	- `choco install dbeaver-community`
+- Anaconda install 
+	- miniconda install
+	- pyenv
+	- jupyterlab install 
+	- pip
+- sqlite install 

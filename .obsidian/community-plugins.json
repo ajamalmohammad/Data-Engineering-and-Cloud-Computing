@@ -1,4 +1,12 @@
 [
   "obsidian-excalidraw-plugin",
-  "obsidian-git"
+  "obsidian-git",
+  "table-editor-obsidian",
+  "dataview",
+  "obsidian-tasks-plugin",
+  "calendar",
+  "cm-editor-syntax-highlight-obsidian",
+  "meld-calc",
+  "recent-files-obsidian",
+  "cycle-through-panes"
 ]

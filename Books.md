@@ -1,0 +1,17 @@
+- Register and download
+	- Snowflake Definitive Guide: https://www.snowflake.com/resource/snowflake-definitive-guide/
+	- Kafka Definitive Guide: https://www.confluent.io/resources/kafka-the-definitive-guide
+	- Graph databases definitive guide: https://neo4j.com/whitepapers/definitive-guide-graph-databases-rdbms-developer/
+	- Airflow: https://www.astronomer.io/ebooks/data-pipelines-with-apache-airflow/
+	- DBT: https://www.scribd.com/document/700287159/Data-Engineering-with-dbt
+- No registration required
+	- Postgres SQL: https://www.postgresql.org/files/documentation/pdf/16/postgresql-16-A4.pdf
+	- Python standard library: http://www.doc-developpement-durable.org/file/Projets-informatiques/cours-&-manuels-informatiques/Python/The%20Python%20Standard%20Library%20by%20Example.pdf
+	- Python pandas: https://pandas.pydata.org/pandas-docs/version/1.4.4/pandas.pdf
+	- Python Scikit learn: https://scikit-learn.org/0.18/_downloads/scikit-learn-docs.pdf
+	- Python SciPy: https://docs.scipy.org/doc/scipy-0.13.0/scipy-ref.pdf
+	- Fundamentals of data-warehousing: https://anuradhasrinivas.files.wordpress.com/2013/03/data-warehousing-fundamentals-by-paulraj-ponniah.pdf
+	- Linux and Cloud: https://github.com/gg-daddy/ebooks/blob/master/Systems.Performance.Enterprise.and.the.Cloud.2013.10.pdf
+	- open Cypher reference: https://s3.amazonaws.com/artifacts.opencypher.org/openCypher9.pdf
+	- DuckDB: https://duckdb.org/duckdb-docs.pdf
+	- MiniZinc: https://www.minizinc.org/doc-2.8.3/en/MiniZinc%20Handbook.pdf

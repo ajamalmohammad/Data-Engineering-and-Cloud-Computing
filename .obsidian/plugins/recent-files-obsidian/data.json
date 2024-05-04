@@ -1,0 +1,39 @@
+{
+  "recentFiles": [
+    {
+      "basename": "Web links",
+      "path": "Web links.md"
+    },
+    {
+      "basename": "Python libraries",
+      "path": "Python libraries.md"
+    },
+    {
+      "basename": "Books",
+      "path": "Books.md"
+    },
+    {
+      "basename": "Exercises",
+      "path": "Exercises.md"
+    },
+    {
+      "basename": "deployment-options-2024-04-27.excalidraw",
+      "path": "Excalidraw/deployment-options-2024-04-27.excalidraw.md"
+    },
+    {
+      "basename": "DAY2",
+      "path": "DAY2.md"
+    },
+    {
+      "basename": "Docker postgres",
+      "path": "Docker postgres.md"
+    },
+    {
+      "basename": "Snowflake connection parameter",
+      "path": "Snowflake connection parameter.md"
+    }
+  ],
+  "omittedPaths": [],
+  "maxLength": null,
+  "openType": "tab"
+}

@@ -1,0 +1,76 @@
+- ETL data manipulation
+	- pandas
+	- jupyter
+	- numpy
+	- spark
+- SQL
+	- sqlineage
+- Gen fake data
+	- faker
+- Web server
+	- streamlit
+	- flask
+- Single Page Applications
+	- pyscript
+- Application execution
+	- ray
+- Data visualisation
+	- atoti
+	- seaboarn
+- Math
+	- scipy
+	- sympy
+	- simpy
+- Machine learning 
+	- pycaret
+- Authentication
+	- ldap3
+	- pyad
+- Geo spatial
+	- folium
+	- geopandas
+- Templating
+	- jinja2
+	- string.Template
+- Scraping
+	- scrapy
+	- playwright
+	- bs4
+	- selenium
+- Automation (Keyboard and clicks)
+	- pywebgui
+- Desktop UI
+	- pyside6
+	- pyQT
+- Command line tools
+	- rich
+	- click
+	- fire
+	- tqdm
+	- pexpect
+- Testing
+	- unittest
+	- pytest
+	- icecream
+- Image/picture manipulation 
+	- PIL   `pillow`
+- Video manipulation
+	- ffmpeg
+	- moviepy
+- Text to speech
+	- pyttsx3
+- SSH terminal program manipulation
+	- paramiko
+	- pexpect
+	- autoscrapper
+- Code management linting
+	- black
+	- precommit
+	- flake8
+	- autopep8
+	- sorter
+- Read any configfile
+	- configparser
+	- hydra
+- Autocorrect
+	- thefuzz

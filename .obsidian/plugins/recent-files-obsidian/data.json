@@ -1,24 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Web links",
-      "path": "Web links.md"
+      "basename": "Session 3",
+      "path": "Session 3.md"
     },
     {
-      "basename": "Python libraries",
-      "path": "Python libraries.md"
+      "basename": "Drawing 2024-05-11 16.50.14.excalidraw",
+      "path": "Excalidraw/Drawing 2024-05-11 16.50.14.excalidraw.md"
     },
     {
-      "basename": "Books",
-      "path": "Books.md"
-    },
-    {
-      "basename": "Exercises",
-      "path": "Exercises.md"
-    },
-    {
-      "basename": "deployment-options-2024-04-27.excalidraw",
-      "path": "Excalidraw/deployment-options-2024-04-27.excalidraw.md"
+      "basename": "Drawing 2024-05-11 16.28.29.excalidraw",
+      "path": "Excalidraw/Drawing 2024-05-11 16.28.29.excalidraw.md"
     },
     {
       "basename": "DAY2",
@@ -29,8 +21,72 @@
       "path": "Docker postgres.md"
     },
     {
+      "basename": "deployment-options-2024-04-27.excalidraw",
+      "path": "Excalidraw/deployment-options-2024-04-27.excalidraw.md"
+    },
+    {
+      "basename": "SQL",
+      "path": "StudyPlan/SQL.md"
+    },
+    {
       "basename": "Snowflake connection parameter",
       "path": "Snowflake connection parameter.md"
+    },
+    {
+      "basename": "Drawing 2024-05-10 20.48.40.excalidraw",
+      "path": "Excalidraw/Drawing 2024-05-10 20.48.40.excalidraw.md"
+    },
+    {
+      "basename": "Drawing 2024-05-10 20.38.41.excalidraw",
+      "path": "Excalidraw/Drawing 2024-05-10 20.38.41.excalidraw.md"
+    },
+    {
+      "basename": "Drawing 2024-05-10 20.38.39.excalidraw",
+      "path": "Excalidraw/Drawing 2024-05-10 20.38.39.excalidraw.md"
+    },
+    {
+      "basename": "Curriculum",
+      "path": "StudyPlan/Curriculum.md"
+    },
+    {
+      "basename": "Drawing 2024-05-10 20.38.19.excalidraw",
+      "path": "Excalidraw/Drawing 2024-05-10 20.38.19.excalidraw.md"
+    },
+    {
+      "basename": "Drawing 2024-05-10 21.22.12.excalidraw",
+      "path": "Excalidraw/Drawing 2024-05-10 21.22.12.excalidraw.md"
+    },
+    {
+      "basename": "Drawing 2024-05-10 20.57.39.excalidraw",
+      "path": "Excalidraw/Drawing 2024-05-10 20.57.39.excalidraw.md"
+    },
+    {
+      "basename": "Drawing 2024-05-10 21.09.50.excalidraw",
+      "path": "Excalidraw/Drawing 2024-05-10 21.09.50.excalidraw.md"
+    },
+    {
+      "basename": "Drawing 2024-05-10 20.01.12.excalidraw",
+      "path": "Excalidraw/Drawing 2024-05-10 20.01.12.excalidraw.md"
+    },
+    {
+      "basename": "Drawing 2024-05-10 20.42.15.excalidraw",
+      "path": "Excalidraw/Drawing 2024-05-10 20.42.15.excalidraw.md"
+    },
+    {
+      "basename": "Exercises",
+      "path": "Exercises.md"
+    },
+    {
+      "basename": "Books",
+      "path": "Books.md"
+    },
+    {
+      "basename": "Python libraries",
+      "path": "Python libraries.md"
+    },
+    {
+      "basename": "Web links",
+      "path": "Web links.md"
     }
   ],
   "omittedPaths": [],

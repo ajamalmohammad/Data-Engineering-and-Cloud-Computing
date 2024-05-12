@@ -1,3 +1,8 @@
+---
+excalidraw-plugin: parsed
+tags:
+  - excalidraw
+---
 - JSON
 	- https://jsoncrack.com/
 	- http://jsonviewer.stack.hu/
@@ -49,3 +54,12 @@
 	- jinja2: http://jinja.quantprogramming.com/
 	- jq JSON: https://jqplay.org/
 	- jp JSON: https://kodekloud.com/p/json-path-quiz
+
+==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==
+
+
+# Drawing
+```json
+{"type":"excalidraw","version":2,"source":"https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.1.6","elements":[],"appState":{"gridSize":null,"viewBackgroundColor":"#ffffff"}}
+```
+%%

@@ -7,9 +7,9 @@
 - SQL is a standard language for accessing and manipulating databases.
 ### What Can SQL do?
 - SQL can execute queries against a database
-- SQL can retrieve data from a database - Select
-- SQL can insert records in a database/in a table
-- SQL can update records in a database/update
+- SQL can retrieve data from a database - "Select"
+- SQL can insert records in a database/in a table - "Insert"
+- SQL can update records in a database/update - "Update"
 - SQL can delete records from a database - delete
 - SQL can create new databases - create
 - SQL can create new tables in a database - create

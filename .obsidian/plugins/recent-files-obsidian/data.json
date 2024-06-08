@@ -1,12 +1,104 @@
 {
   "recentFiles": [
     {
-      "basename": "conflict-files-obsidian-git",
-      "path": "conflict-files-obsidian-git.md"
+      "basename": "Session 5",
+      "path": "Session 5.md"
+    },
+    {
+      "basename": "SQL Commands",
+      "path": "SQL Commands.md"
     },
     {
       "basename": "deployment-options-2024-04-27.excalidraw",
       "path": "Excalidraw/deployment-options-2024-04-27.excalidraw.md"
+    },
+    {
+      "basename": "Session 4",
+      "path": "Session 4.md"
+    },
+    {
+      "basename": "Session 3",
+      "path": "Session 3.md"
+    },
+    {
+      "basename": "s3 dynamic tables",
+      "path": "Snowflake sql/s3 dynamic tables.md"
+    },
+    {
+      "basename": "s3 change tracking",
+      "path": "Snowflake sql/s3 change tracking.md"
+    },
+    {
+      "basename": "s3 stream",
+      "path": "Snowflake sql/s3 stream.md"
+    },
+    {
+      "basename": "s3 task",
+      "path": "Snowflake sql/s3 task.md"
+    },
+    {
+      "basename": "s3 snowpipe ingestion",
+      "path": "Snowflake sql/s3 snowpipe ingestion.md"
+    },
+    {
+      "basename": "s3 integration and loading",
+      "path": "Snowflake sql/s3 integration and loading.md"
+    },
+    {
+      "basename": "Drawing 2024-05-30 11.55.53.excalidraw",
+      "path": "Excalidraw/Drawing 2024-05-30 11.55.53.excalidraw.md"
+    },
+    {
+      "basename": "Drawing 2024-05-30 11.47.11.excalidraw",
+      "path": "Excalidraw/Drawing 2024-05-30 11.47.11.excalidraw.md"
+    },
+    {
+      "basename": "Drawing 2024-05-21 21.20.49.excalidraw",
+      "path": "Excalidraw/Drawing 2024-05-21 21.20.49.excalidraw.md"
+    },
+    {
+      "basename": "Drawing 2024-05-11 16.50.14.excalidraw",
+      "path": "Excalidraw/Drawing 2024-05-11 16.50.14.excalidraw.md"
+    },
+    {
+      "basename": "Drawing 2024-05-11 16.28.29.excalidraw",
+      "path": "Excalidraw/Drawing 2024-05-11 16.28.29.excalidraw.md"
+    },
+    {
+      "basename": "Drawing 2024-05-10 21.22.12.excalidraw",
+      "path": "Excalidraw/Drawing 2024-05-10 21.22.12.excalidraw.md"
+    },
+    {
+      "basename": "Drawing 2024-05-10 21.09.50.excalidraw",
+      "path": "Excalidraw/Drawing 2024-05-10 21.09.50.excalidraw.md"
+    },
+    {
+      "basename": "Drawing 2024-05-10 20.57.39.excalidraw",
+      "path": "Excalidraw/Drawing 2024-05-10 20.57.39.excalidraw.md"
+    },
+    {
+      "basename": "Drawing 2024-05-10 20.48.40.excalidraw",
+      "path": "Excalidraw/Drawing 2024-05-10 20.48.40.excalidraw.md"
+    },
+    {
+      "basename": "Drawing 2024-05-10 20.42.15.excalidraw",
+      "path": "Excalidraw/Drawing 2024-05-10 20.42.15.excalidraw.md"
+    },
+    {
+      "basename": "Drawing 2024-05-10 20.38.41.excalidraw",
+      "path": "Excalidraw/Drawing 2024-05-10 20.38.41.excalidraw.md"
+    },
+    {
+      "basename": "Drawing 2024-05-10 20.38.39.excalidraw",
+      "path": "Excalidraw/Drawing 2024-05-10 20.38.39.excalidraw.md"
+    },
+    {
+      "basename": "Drawing 2024-05-10 20.38.19.excalidraw",
+      "path": "Excalidraw/Drawing 2024-05-10 20.38.19.excalidraw.md"
+    },
+    {
+      "basename": "Drawing 2024-05-10 20.01.12.excalidraw",
+      "path": "Excalidraw/Drawing 2024-05-10 20.01.12.excalidraw.md"
     },
     {
       "basename": "Docker postgres",

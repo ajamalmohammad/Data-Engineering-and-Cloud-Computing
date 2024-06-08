@@ -1,0 +1,34 @@
+- Theory
+	- CPU architecture
+		- x86
+		- arm
+	- Deployment options for a workload
+		- Baremetal 
+		- Virtual machines
+		- Docker container
+		- Nix
+		- Web assembly
+	- SMP vs MPP
+- Exercises
+	- install pgadmin
+	- copy into csv file
+- Reference docs
+	- https://mattturck.com/landscape/mad2024.pdf
+- Postgres
+	- Datatypes
+		- [numeric](https://www.postgresql.org/docs/current/datatype-numeric.html)
+	- [Functions](https://www.postgresql.org/docs/9.1/functions-logical.html)
+		- case statement
+	- Data modelling
+		- flight example [link](https://github.com/saboye/Data-Modeling-with-Postgres?tab=readme-ov-file)
+	- SCD
+	- CDC
+	- Sub-query
+		- exists
+		- in
+		- not in
+	- Like
+		- like any
+		- not like all 
+	- SQL set operators 
+

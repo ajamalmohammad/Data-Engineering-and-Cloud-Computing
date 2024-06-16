@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session 5.md",
+                "file": "Session 5 (draft).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "31135cfd48743d90",
@@ -101,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session 5.md",
+                "file": "Session 5 (draft).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session 5.md",
+                "file": "Session 5 (draft).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session 5.md"
+                "file": "Session 5 (draft).md"
               }
             }
           },
@@ -174,9 +175,12 @@
   },
   "active": "dfc68a5164848e20",
   "lastOpenFiles": [
+    "Excalidraw/Deployment-options-2024-06-08.excalidraw.md",
+    "Excalidraw/SMP_MPP.md",
+    "Excalidraw/project-work.md",
+    "Session 5 (draft).md",
     "SQL Commands.md",
     "Excalidraw/deployment-options-2024-04-27.excalidraw.md",
-    "Session 5.md",
     "Session 4.md",
     "Session 3.md",
     "Snowflake sql/s3 dynamic tables.md",
@@ -198,9 +202,6 @@
     "Excalidraw/Drawing 2024-05-10 20.42.15.excalidraw.md",
     "Excalidraw/Drawing 2024-05-10 20.38.41.excalidraw.md",
     "Excalidraw/Drawing 2024-05-10 20.38.39.excalidraw.md",
-    "Excalidraw/Drawing 2024-05-10 20.38.19.excalidraw.md",
-    "Excalidraw/Drawing 2024-05-10 20.01.12.excalidraw.md",
-    "conflict-files-obsidian-git.md",
     "PDF",
     "Excalidraw"
   ]

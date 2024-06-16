@@ -1,7 +1,18 @@
 - Theory
 	- CPU architecture
 		- x86
+			- power hungry 
+			- high heat 
+			- AMD 
+			- Intel 
 		- arm
+			- AWS Graviton
+			- Apple iphones and ipad
+				- M1 chip laptops
+			- Qualcom 
+				- Snapdragon
+				- Windows 11 on ARM.
+					- Surface pro 9, 
 	- Deployment options for a workload
 		- Baremetal 
 		- Virtual machines
@@ -11,7 +22,9 @@
 	- SMP vs MPP
 - Exercises
 	- install pgadmin
+		- choco install pgadmin
 	- copy into csv file
+		- 
 - Reference docs
 	- https://mattturck.com/landscape/mad2024.pdf
 - Postgres
@@ -25,10 +38,21 @@
 	- CDC
 	- Sub-query
 		- exists
-		- in
+		- in    --stack 
+			- 10,000
 		- not in
+	- Join
+		- 100,000 and 100,000
+	- CTE
+	- correlated sub-query
+	- recursive 
 	- Like
 		- like any
 		- not like all 
 	- SQL set operators 
+		- union 
+		- union all 
+		- minux
+		- except 
+		- intersect
 

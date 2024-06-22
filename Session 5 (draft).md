@@ -34,8 +34,15 @@
 		- case statement
 	- Data modelling
 		- flight example [link](https://github.com/saboye/Data-Modeling-with-Postgres?tab=readme-ov-file)
+	- CASE
+		- https://www.ibm.com/docs/en/ias?topic=plsql-simple-case-statement
+	- Top N
+		- https://sanori.github.io/2018/11/SQL-Window-Functions-Top-k-Elements-Example/
 	- SCD
 	- CDC
+	- Pivot
+	- Unpivot
+	- group concat() 
 	- Sub-query
 		- exists
 		- in    --stack 
@@ -44,6 +51,7 @@
 	- Join
 		- 100,000 and 100,000
 	- CTE
+	- CTAS
 	- correlated sub-query
 	- recursive 
 	- Like
@@ -56,3 +64,11 @@
 		- except 
 		- intersect
 
+
+```sql
+
+``` 
+
+
+
+----

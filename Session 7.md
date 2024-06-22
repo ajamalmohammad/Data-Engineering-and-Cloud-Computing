@@ -1,0 +1,60 @@
+
+- LLM chats
+	- Gemini, https://gemini.google.com/app
+	- ChatGPT, https://chatgpt.com/
+	- Groq, https://groq.com/
+	- Claude, https://claude.ai/chats
+	- Perplexity, https://www.perplexity.ai/
+- SQL
+	- scenario based questions
+	- python 
+	- java
+	- Theory
+		- Programming
+			- Non-procedural languages
+			- Procedural languages
+			- Object oriented languages (OOPS)
+				- Object: class
+					- method functions
+			- Functional programming
+				- 
+			- Declarative programming
+			- Imperative programming
+			- Constraint programming
+				- MiniZinc
+		- Concepts
+			- Idempotent
+	- List
+
+		- scenario to solve a problem
+			- banking session
+				- scankeys session::*
+					- 120 keys 
+					- del session:user789
+				- Key called session::user10
+				- EXPIRE session::user10 300
+				- Web application activity
+					- EXPIRE session::user10 300
+			- 280,000 $/month AWS
+				- 100,000 ops/s
+				- 3000 ops/s
+- **Topic Pending**
+	- Snowflake
+	- CDC, change data capture
+	- Streaming data
+	- SCD
+		- SCD1
+		- SCD2
+		- SCD3
+	- Data modelling
+		- Star schema
+		- Snowflake schema
+	- Normalisation
+		- 1NF
+		- 2NF
+		- 3NF
+	- De-normalisation
+	- Query tuning scenarios
+	- top k, using analytical function row_number() 
+	- scalar functions
+	- Recursive queries
